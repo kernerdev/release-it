@@ -1,6 +1,6 @@
 {
-  "name": "release-it",
-  "version": "10.4.2",
+  "name": "release-it-http",
+  "version": "10.4.3",
   "description": "CLI release tool for Git repos and npm packages.",
   "keywords": [
     "build",
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/release-it/release-it.git"
+    "url": "https://github.com/kernerdev/release-it.git"
   },
   "homepage": "https://github.com/release-it/release-it#readme",
   "bugs": "https://github.com/release-it/release-it/issues",
@@ -45,8 +45,8 @@
     "release": "./bin/release-it.js"
   },
   "author": {
-    "email": "lars@webpro.nl",
-    "name": "Lars Kappert"
+    "email": "kernerdev@gmail.com",
+    "name": "Bence Kerner"
   },
   "license": "MIT",
   "dependencies": {
